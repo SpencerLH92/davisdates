@@ -1,0 +1,12 @@
+{
+  "name": "groupme-birthday-bot",
+  "version": "1.0.0",
+  "description": "Scheduled GroupMe birthday bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.4"
+  }
+}
